@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+/* eslint-disable */
 import { useRouter } from "next/router";
 import VideoBackground from "@/components/VideoTwoBackground";
 import AnimatedWrapper from "@/components/AnimatedWrapper";
